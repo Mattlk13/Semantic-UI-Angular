@@ -27,27 +27,27 @@
   },
   "homepage": "https://github.com/Semantic-Org/Semantic-UI-Angular#readme",
   "devDependencies": {
-    "angular": "1.4.8",
+    "angular": "1.8.3",
     "angular-mocks": "1.4.8",
     "cz-conventional-changelog": "^1.1.5",
     "jasmine-core": "2.4.1",
-    "jquery": "2.2.0",
+    "jquery": "3.5.0",
     "jscs": "2.8.0",
     "jscs-loader": "0.2.0",
     "json-loader": "0.5.4",
-    "karma": "0.13.19",
+    "karma": "6.3.16",
     "karma-jasmine": "0.3.6",
     "karma-phantomjs-launcher": "0.2.3",
     "karma-sourcemap-loader": "0.3.6",
     "karma-webpack": "1.7.0",
-    "phantomjs": "1.9.19",
+    "phantomjs": "2.1.7",
     "phantomjs-polyfill": "0.0.1",
     "ts-loader": "0.7.2",
     "tsd": "0.6.5",
     "tslint": "3.2.1",
     "tslint-loader": "2.1.0",
     "typescript": "1.7.5",
-    "webpack": "1.12.10"
+    "webpack": "5.94.0"
   },
   "config": {
     "commitizen": {
